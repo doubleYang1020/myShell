@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# this is shell example
 # sudo chmod +x file path
 function example () {
     echo "this is example function" # arguments are accessible through name, echo "$1" # arguments are accessible through , ,...,...
